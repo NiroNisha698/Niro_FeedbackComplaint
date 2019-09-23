@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Complaints</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_mobile">07XXXXXXXX</string>
+    <string name="txt_email">abcd@email.com</string>
+    <string name="txt_date">DD/MM/YYYY</string>
+    <string name="txt_address">Address</string>
+    <string name="txt_complaints"></string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_show">SHOW</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="btn_uploadImage">UPLOAD IMAGE</string>
+    <string name="btn_rating">Rating and Feedback</string>
+    <string name="btn_complaint">Complaints</string>
+    <string name="nbtn_submit">SUBMIT</string>
+
+</resources>
